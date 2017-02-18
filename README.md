@@ -1,4 +1,7 @@
 # Restaurant Inspections Web App
+
+![](https://img.shields.io/badge/status-in--development-blue.svg) 
+
 ## What
 This web app shows information about Miami-Dade County's restaurant inspections, using this API: https://github.com/Code-for-Miami/restaurant-inspections-api/ It'll make it easier to find out which eateries make the grade, and which ones are failing inspections. 
 
